@@ -1,7 +1,7 @@
 {
   "version": 2,
   "env": {
-    "NEXT_PUBLIC_BACKEND_URL": "https://vid-2z4q.onrender.com"
+    "NEXT_PUBLIC_API_URL": "https://vid-2z4q.onrender.com"
   },
   "builds": [
     {
